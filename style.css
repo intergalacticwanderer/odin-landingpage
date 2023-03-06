@@ -25,7 +25,7 @@ body {
 
 #logo1 {
 	padding-left: 200px;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 #menu {
@@ -34,7 +34,7 @@ body {
 	align-items: center;
 	list-style-type: none;
 	padding-right: 200px;
-	font-size: 15px;
+	font-size: 18px;
 	gap: 2em;
 	flex-shrink: 0;
 }
@@ -108,7 +108,8 @@ body {
 	margin-top: 25px;
 	text-align: center;
 	font-family: monospace;
-	font-size: 20px;
+	font-size: 22px;
+	font-weight: bold;
 }
 
 .section3container {
@@ -141,7 +142,7 @@ body {
 	padding-left: 90px;
 	margin-top: 20px;
 	font-family: monospace;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: bold;
 }
 
@@ -200,10 +201,10 @@ cite, b {
 	font-family: monospace;
 	border-color: #F9FAF8;
 	border-style: solid;
-	width: 130px;
+	width: 150px;
 	height: 30px;
 	align: center;
-	font-size: 15px;
+	font-size: 17px;
 	margin-top: 10px;
 }
 
@@ -213,10 +214,10 @@ cite, b {
 	font-family: monospace;
 	border-color: #F9FAF8;
 	border-style: hidden;
-	width: 130px;
+	width: 150px;
 	height: 30px;
 	align: center;
-	font-size: 15px;
+	font-size: 17px;
 	margin-top: 10px;
 }
 
@@ -225,7 +226,7 @@ cite, b {
 }
 
 #s5subtext {
-	font-size: 15px;
+	font-size: 17px;
 }
 
 .footer {
@@ -237,7 +238,7 @@ cite, b {
 	flex-direction: column;
 	color: #F9FAF8;
 	font-family: monospace;
-	font-size: 12px;
+	font-size: 13px;
 	margin-top: 60px;
 	flex-shrink: 0;
 }
